@@ -9,10 +9,14 @@ dependencies:
   - python
   - pip
 
+
     # Testing
   - pytest
   - pytest-cov
   - codecov
+  
+  - matplotlib
+  - numpy
 
     # Pip-only installs
   #- pip:
